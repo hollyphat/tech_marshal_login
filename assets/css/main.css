@@ -84,3 +84,19 @@ a {
 padding-right:1rem;
     font-size:1.9rem;
 }
+.left-container{
+display:flex;
+  flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+
+.login-form{
+border:1px solid #d8d8d8;
+    text-align:center;
+    padding:2rem;
+}
+
+.input-container{
+height:4rem;
+}
